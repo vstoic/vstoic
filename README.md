@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Victor Cheng! 👨🏻‍💻</h1>
 
-
+<p>I am a software engineer, coffee addict, film enthusiast, food connoisseur, shutterbug, boombox blaster, thril seaker, carpe diem.</p>
 
 
 <p align="center">Connect With Me:</p>
