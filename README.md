@@ -4,7 +4,7 @@
 
 
 
-<details>
+<details align = "center">
 <summary>More About My Coding Life</summary>
 <br />
 
