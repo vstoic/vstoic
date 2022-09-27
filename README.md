@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Victor Cheng! 👨🏻‍💻</h1>
+<h1 align="center">Hi there, I'm Victor 👨🏻‍💻</h1>
 
 <p align="center">I'm a software engineer, coffee addict, film enthusiast, shutterbug, food connoisseur, boombox blaster, weightlifter, thrill seeker, carpe diem.</p>
 
