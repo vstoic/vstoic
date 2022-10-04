@@ -3,7 +3,7 @@
 <p align="center">I'm a software engineer, coffee addict, film enthusiast, shutterbug, food connoisseur, boombox blaster, weightlifter, thrill seeker, carpe diem.</p>
 
 
-<p align="center">Connect With Me:</p>
+<p align="center">Connect With  Me:</p>
 <div align="center">
 <a href="https://www.instagram.com/vstoic/">
   <img align="center" alt="Victor's Instagram" width="30px" src="https://pic.onlinewebfonts.com/svg/img_465937.png" />
