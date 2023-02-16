@@ -1,6 +1,6 @@
-<h1 align="center">Hi there, I'm Victor Cheng 👨🏻‍💻</h1>
+<h1 align="center">Hi there, I'm Victor👨🏻‍💻</h1>
 
-<p align="center">I'm a software engineer, coffee addict, film enthusiast, shutterbug, food connoisseur, boombox blaster, weightlifter, thrill seeker, carpe diem.</p>
+<p align="center">I'm a software engineer, coffee addict, film enthusiast, shutterbug, food connoisseur, boombox blaster, olympic weightlifter, thrill seeker, carpe diem.</p>
 
 
 <p align="center">Connect With  Me:</p>
@@ -17,11 +17,11 @@
 </div>
 <br/>
 
-<details align = "center">
+<!-- <details align = "center">
 <summary>More About My Coding Life</summary>
 <br />
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Vstoic&count_private=true&show_icons=true&theme=graywhite&hide=issues,contribs" alt="Vstoic"/></p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vstoic&show_icons=true&locale=en&layout=compact&theme=graywhite" alt="Vstoic" /></p>
 
-</details>
+</details> -->
