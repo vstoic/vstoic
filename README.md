@@ -2,10 +2,13 @@
 
 <p align="center">I'm a software engineer, coffee addict, film enthusiast, shutterbug, food connoisseur, boombox blaster, olympic weightlifter, thrill seeker, carpe diem.</p>
 
-
 <p align="center">Connect With  Me:</p>
+
 <div align="center">
-<a href="https://www.instagram.com/vstoic/">
+<a href="https://vstoic.github.io/">
+  <img align="center" alt="Victor's Portfolio" width="30px" src="https://i.postimg.cc/7ZM7CDZp/Pngtree-vector-portfolio-icon-4165689.png" />
+</a>
+<a href="https://www.instagram.com/vstoic/" >
   <img align="center" alt="Victor's Instagram" width="30px" src="https://pic.onlinewebfonts.com/svg/img_465937.png" />
 </a>
 <a href="https://www.linkedin.com/in/victorcheng3/">
