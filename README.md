@@ -1,5 +1,8 @@
 <h1 align="center">Hi there, I'm Victor👨🏻‍💻</h1>
 
+
+<!-- <details align = "center">
+
 <p align="center">I'm a software engineer, coffee addict, film enthusiast, shutterbug, food connoisseur, boombox blaster, olympic weightlifter, thrill seeker, carpe diem.</p>
 
 <p align="center">Connect With  Me:</p>
@@ -20,7 +23,6 @@
 </div>
 <br/>
 
-<!-- <details align = "center">
 <summary>More About My Coding Life</summary>
 <br />
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Vstoic&count_private=true&show_icons=true&theme=graywhite&hide=issues,contribs" alt="Vstoic"/></p>
